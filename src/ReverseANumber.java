@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class ReverseANumber{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -16,5 +15,4 @@ public class ReverseANumber{
         }
         System.out.println("Reverse number is: "+ reverseNum);
     }
-
 }
