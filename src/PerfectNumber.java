@@ -21,5 +21,4 @@ public class PerfectNumber  {
         }else
             System.out.println("So "+num+" is not a perfect number");
     }
-
 }
