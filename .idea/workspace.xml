@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="85e3fd03-bce2-4090-9a1a-0467e22493c5" name="Changes" comment="Added : Reverse A Number">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CouponNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CouponNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
