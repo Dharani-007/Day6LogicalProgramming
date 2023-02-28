@@ -1,7 +1,6 @@
-public class CouponNumber
-{
-    public static void main(String[] args)
-    {
+import java.util.Scanner;
+public class CouponNumber {
+    public static void main(String[] args) {
         char[] chars="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ123456789".toCharArray();
         int max=100000000;
         int random=(int) (Math.random()*max);
@@ -12,8 +11,9 @@ public class CouponNumber
             sb.append(chars[random % chars.length]);
             random /= chars.length;
         }
-
+// tostring is built method used to return a string.
         String couponCode=sb.toString();
         System.out.println("Coupon Code: "+couponCode);
     }
+
 }
